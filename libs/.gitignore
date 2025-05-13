@@ -1,0 +1,7 @@
+# Ignore contents of this folder
+# Trying to avoid possible licensing issues
+*
+
+# This .gitignore is exempt from the above rule
+# This keeps the empty folder in the repo to make the project structure more evident
+!.gitignore
